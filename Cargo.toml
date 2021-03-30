@@ -1,0 +1,12 @@
+[package]
+name = "bag"
+version = "0.1.0"
+authors = ["ashi6 <littletori0912@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3"
+rand = "0.8.3"
+serde = "1"
